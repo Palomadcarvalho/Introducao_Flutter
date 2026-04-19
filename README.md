@@ -1,8 +1,11 @@
 # Reflexão — Lab 07: Introdução ao Flutter
 ## LAMD 60445 — Engenharia de Software — PUC Minas
 **Professor:** Cristiano de Macedo Neto  
+
 **Aluno(a):**  Paloma Dias de Carvalho
+
 **Matrícula:**  587900
+
 **Data de entrega:**  19/04/2026
 
 ---
